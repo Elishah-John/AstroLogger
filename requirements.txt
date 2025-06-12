@@ -1,0 +1,6 @@
+Pillow>=8.0
+
+# --- Standard Libraries (included with Python) ---
+# tkinter - Standard GUI library
+# json    - Standard library for data serialization
+# os      - Standard library for file/directory ops
